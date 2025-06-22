@@ -29,7 +29,7 @@ sudo chmod -R 755 /var/www/mi_sitio/public_html
 
 ##  Paso 4: Crear página web
 ```bash
-sudo nano /var/www/mi-sitio/index.html
+sudo nano /var/www/mi-sitio/index.php
 ```
 
 ## Paso 5: Configurar Virtual Host
