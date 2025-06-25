@@ -59,7 +59,10 @@ httrack <URL_DEL_SITIO> -O <CARPETA_DE_DESTINO> [OPCIONES]
     sudo chmod -R 755 /var/www/mi_sitio/public_html
     ```
     
-    * Crear página web: introduce el index.html creado por httrack en el directorio que creamos anteriormente
+    * Crear página web: introduce el index.html creado por httrack en el directorio que creamos 
+    anteriormente, modificala para que cuando el usuario introduzca sus credenciales se manden por 
+    medio de una petición post y sean tomandas por la herramienta de spoofer
+    
 
    * Configurar Virtual Host para que permita peticiones post y poder robar las credenciales
     ```bash
