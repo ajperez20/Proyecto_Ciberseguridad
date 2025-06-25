@@ -1,6 +1,6 @@
 # Proyecto_Ciberseguridad
 
-# Configuración Completa de Servidor Apache HTTP en Kali Linux
+# Configuración Completa de Servidor Apache Legítimo
 
 ## 🔧 Requisitos Previos
 - Kali Linux actualizado
