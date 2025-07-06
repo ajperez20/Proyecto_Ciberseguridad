@@ -19,6 +19,6 @@ Este enfoque dual nos permite obtener una comprensión holística de las táctic
 ## Integrantes
 * Arturo Perez C.I 28.680.741 
 * Gustavo Morales C.I 27.818.333 
-* Geraldine Rangel C.I 29.532.2280 
+* Geraldine Rangel C.I 29.532.280 
 * Juan Tiapa C.I 29.931.486 
 
